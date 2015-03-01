@@ -2,7 +2,7 @@ ROOT=..
 PLATFORM=$(shell $(ROOT)/systype.sh)
 include $(ROOT)/Make.defines.$(PLATFORM)
 
-PROGS =	basicls copyf_unbuf
+PROGS =	basicls copyf_unbuf copyf_std
 
 all:	$(PROGS)
 
