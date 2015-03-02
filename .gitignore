@@ -1,1 +1,10 @@
 *.o
+lib/libapue.a
+Chapter-1/basic_shell
+Chapter-1/basic_shell_with_sig
+Chapter-1/basicls
+Chapter-1/copyf_std
+Chapter-1/copyf_unbuf
+Chapter-1/error_func_ex
+Chapter-1/hellopid
+Chapter-1/uid_gid
